@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C230588-F812-44EF-8CC4-93BF36846A5F}|LoanLedgerService.API.csproj|c:\\projects\\backend\\lms\\loanledger\\loanledgerservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C230588-F812-44EF-8CC4-93BF36846A5F}|LoanLedgerService.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C230588-F812-44EF-8CC4-93BF36846A5F}|LoanLedgerService.API.csproj|c:\\projects\\backend\\lms\\loanledger\\loanledgerservice.api\\controllers\\loanaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C230588-F812-44EF-8CC4-93BF36846A5F}|LoanLedgerService.API.csproj|solutionrelative:controllers\\loanaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C230588-F812-44EF-8CC4-93BF36846A5F}|LoanLedgerService.API.csproj|c:\\projects\\backend\\lms\\loanledger\\loanledgerservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C230588-F812-44EF-8CC4-93BF36846A5F}|LoanLedgerService.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE43C6C-046A-4C9D-B12B-020FD913E32C}|..\\LoanLedgerService.Infrastructure\\LoanLedgerService.Infrastructure.csproj|c:\\projects\\backend\\lms\\loanledger\\loanledgerservice.infrastructure\\services\\loanqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC40C7-01C9-46D5-B0AC-FB961E3E4174}|..\\LoanLedgerService.Application\\LoanLedgerService.Application.csproj|c:\\projects\\backend\\lms\\loanledger\\loanledgerservice.application\\dtos\\loanaccountresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE43C6C-046A-4C9D-B12B-020FD913E32C}|..\\LoanLedgerService.Infrastructure\\LoanLedgerService.Infrastructure.csproj|c:\\projects\\backend\\lms\\loanledger\\loanledgerservice.infrastructure\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:34:08.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanQueryService.cs",
+              "DocumentMoniker": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.Infrastructure\\Services\\LoanQueryService.cs",
+              "RelativeDocumentMoniker": "..\\LoanLedgerService.Infrastructure\\Services\\LoanQueryService.cs",
+              "ToolTip": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.Infrastructure\\Services\\LoanQueryService.cs",
+              "RelativeToolTip": "..\\LoanLedgerService.Infrastructure\\Services\\LoanQueryService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T05:09:58.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanAccountResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.Application\\DTOs\\LoanAccountResponse.cs",
+              "RelativeDocumentMoniker": "..\\LoanLedgerService.Application\\DTOs\\LoanAccountResponse.cs",
+              "ToolTip": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.Application\\DTOs\\LoanAccountResponse.cs",
+              "RelativeToolTip": "..\\LoanLedgerService.Application\\DTOs\\LoanAccountResponse.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:37:23.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanAccountController.cs",
+              "DocumentMoniker": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.API\\Controllers\\LoanAccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoanAccountController.cs",
+              "ToolTip": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.API\\Controllers\\LoanAccountController.cs",
+              "RelativeToolTip": "Controllers\\LoanAccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:04:35.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.Infrastructure\\Repositories\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "..\\LoanLedgerService.Infrastructure\\Repositories\\LoanRepository.cs",
+              "ToolTip": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.Infrastructure\\Repositories\\LoanRepository.cs",
+              "RelativeToolTip": "..\\LoanLedgerService.Infrastructure\\Repositories\\LoanRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowJUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:04:35.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\Backend\\LMS\\LoanLedger\\LoanLedgerService.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T05:07:33.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 628,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

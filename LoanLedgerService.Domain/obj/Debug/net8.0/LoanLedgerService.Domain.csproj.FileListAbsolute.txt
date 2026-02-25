@@ -1,0 +1,12 @@
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\bin\Debug\net8.0\LoanLedgerService.Domain.deps.json
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\bin\Debug\net8.0\LoanLedgerService.Domain.dll
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\bin\Debug\net8.0\LoanLedgerService.Domain.pdb
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\LoanLedgerService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\LoanLedgerService.Domain.AssemblyInfoInputs.cache
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\LoanLedgerService.Domain.AssemblyInfo.cs
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\LoanLedgerService.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\LoanLedgerService.Domain.sourcelink.json
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\LoanLedgerService.Domain.dll
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\refint\LoanLedgerService.Domain.dll
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\LoanLedgerService.Domain.pdb
+C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Domain\obj\Debug\net8.0\ref\LoanLedgerService.Domain.dll

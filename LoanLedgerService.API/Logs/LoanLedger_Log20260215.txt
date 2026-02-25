@@ -1,0 +1,76 @@
+2026-02-15 22:28:09.954 +05:30 [ERR] f3324922-794e-4066-b338-4b3425c1c385 : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CreateLoanAccountDto -> LoanAccount
+LoanLedgerService.Application.DTOs.CreateLoanAccountDto -> LoanLedgerService.Domain.Models.LoanAccount
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CreateLoanAccountDto -> LoanAccount
+LoanLedgerService.Application.DTOs.CreateLoanAccountDto -> LoanLedgerService.Domain.Models.LoanAccount
+   at lambda_method13(Closure, Object, LoanAccount, ResolutionContext)
+   at LoanLedgerService.Infrastructure.Repositories.LoanRepository.CreateAsync(CreateLoanAccountDto createLoanAccountDto) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Infrastructure\Repositories\LoanRepository.cs:line 35
+   at LoanLedgerService.API.Controllers.LoanAccountController.CreateLoan(CreateLoanAccountDto createLoanAccountDto) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.API\Controllers\LoanAccountController.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at CryptoHub.Api.Middleware.ExceptionHandlerMiddleware.InvokeAsync(HttpContext httpContext) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.API\Middleware\ExceptionHandlerMiddleware.cs:line 23
+2026-02-15 22:29:45.126 +05:30 [ERR] a35e21a0-7186-457c-a2d9-485152e5cd57 : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CreateLoanAccountDto -> LoanAccountResponse
+LoanLedgerService.Application.DTOs.CreateLoanAccountDto -> LoanLedgerService.Application.DTOs.LoanAccountResponse
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CreateLoanAccountDto -> LoanAccountResponse
+LoanLedgerService.Application.DTOs.CreateLoanAccountDto -> LoanLedgerService.Application.DTOs.LoanAccountResponse
+   at lambda_method335(Closure, Object, LoanAccountResponse, ResolutionContext)
+   at LoanLedgerService.Infrastructure.Repositories.LoanRepository.CreateAsync(CreateLoanAccountDto createLoanAccountDto) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Infrastructure\Repositories\LoanRepository.cs:line 57
+   at LoanLedgerService.API.Controllers.LoanAccountController.CreateLoan(CreateLoanAccountDto createLoanAccountDto) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.API\Controllers\LoanAccountController.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at CryptoHub.Api.Middleware.ExceptionHandlerMiddleware.InvokeAsync(HttpContext httpContext) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.API\Middleware\ExceptionHandlerMiddleware.cs:line 23
+2026-02-15 22:33:26.091 +05:30 [ERR] fc338451-510a-45a5-85e2-541599a685e2 : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CreateLoanAccountDto -> LoanAccountResponse
+LoanLedgerService.Application.DTOs.CreateLoanAccountDto -> LoanLedgerService.Application.DTOs.LoanAccountResponse
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CreateLoanAccountDto -> LoanAccountResponse
+LoanLedgerService.Application.DTOs.CreateLoanAccountDto -> LoanLedgerService.Application.DTOs.LoanAccountResponse
+   at lambda_method335(Closure, Object, LoanAccountResponse, ResolutionContext)
+   at LoanLedgerService.Infrastructure.Repositories.LoanRepository.CreateAsync(CreateLoanAccountDto createLoanAccountDto) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.Infrastructure\Repositories\LoanRepository.cs:line 57
+   at LoanLedgerService.API.Controllers.LoanAccountController.CreateLoan(CreateLoanAccountDto createLoanAccountDto) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.API\Controllers\LoanAccountController.cs:line 24
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at CryptoHub.Api.Middleware.ExceptionHandlerMiddleware.InvokeAsync(HttpContext httpContext) in C:\Projects\Backend\LMS\LoanLedger\LoanLedgerService.API\Middleware\ExceptionHandlerMiddleware.cs:line 23
